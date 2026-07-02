@@ -42,10 +42,8 @@ if menu == "Inicio":
 
     st.write(
         """
-        Aplicación desarrollada en Streamlit.
-
-        Permite consultar información meteorológica mediante la API pública
-        Open-Meteo y almacenar las consultas realizadas utilizando SQLite.
+        Consulta información meteorológica mediante la API pública
+        Open-Meteo y almacena las consultas realizadas.
         """
     )
 
